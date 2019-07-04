@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Jr-Ming Lai on 2019/7/4.
-//  Copyright © 2019 Jr-Ming Lai. All rights reserved.
-//
+
 
 import UIKit
 
